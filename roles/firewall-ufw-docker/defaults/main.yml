@@ -1,0 +1,4 @@
+---
+url_ufw_docker: https://github.com/chaifeng/ufw-docker/raw/master/ufw-docker
+dest_ufw_docker: /usr/local/bin/ufw-docker
+path_docker: /etc/docker
