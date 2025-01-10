@@ -1,8 +1,8 @@
 collections:
-  - name: community.docker
+  - name: community.project
 
 roles:
   - src: frzk.chrony
   - src: oefenweb.ufw
   - src: geerlingguy.pip
-  - src: geerlingguy.docker
+  - src: geerlingguy.project
